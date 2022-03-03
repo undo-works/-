@@ -35,15 +35,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>TwitterのDMや匿名のブログお問い合わせからどんどん送ってください^^</p>
+<p>TwitterのDMなどからどんどん送ってください^^</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><span class="bold-green">IT</span>や<span class="bold-green">専門学校選び</span>、<span class="bold-green">進路相談</span>、<span class="bold-green">公務員試験</span>などならお力になれると思います。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>[temp id=2]</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -73,7 +69,7 @@ https://www.pinterest.jp/undoworks/_created/
 <!-- /wp:embed -->
 
 <!-- wp:paragraph -->
-<p>このブログのサムネイルや、作成したイラスト・絵日記など、作成したオリジナルの画像を投稿しています。</p>
+<p>ブログのサムネイルや、作成したイラスト・絵日記など、作成したオリジナルの画像を投稿しています。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
